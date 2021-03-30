@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+My name is Esaul Parra Garcia. I am a developer with Bachelor of Science in Statistics from University of California Los Angeles. I am a developer skilled in Full Stack Development, Machine learning, MERN, Javascript and its frameworks. My portfolio demonstrates my love and passion for startups. Organizations that have a strong mission is something I love being a part of. ⚡ Ethereum , EOS, AdTech, and Defense are fields and technologies that are the most interesting to me(List is subject to grow).
+
+Technologies I use: ReactJs, NextJS, NodeJS, EOS.JS, Python, OpenCV(depracated) 
+
+Technologies I am learning: Solidity, Ethereum, and Twitter(getting used to tweeting)
+
+Follow me on: 
+
+[![Twitter: esaulparra](https://img.shields.io/twitter/follow/esaulparra?style=social)](https://twitter.com/esaulparra)
+[![Linkedin: esaul-parra-garcia-31a383117](https://img.shields.io/badge/-esaul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/esaul-parra-garcia-31a383117/)](https://www.linkedin.com/in/esaul-parra-garcia-31a383117/)
+[![GitHub epg323](https://img.shields.io/github/followers/epg323?label=follow&style=social)](https://github.com/epg323)
+
+
 <!--
 **epg323/epg323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

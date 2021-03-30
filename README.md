@@ -2,7 +2,7 @@
 
 My name is Esaul Parra Garcia. I am a developer with Bachelor of Science in Statistics from University of California Los Angeles. I am a developer skilled in Full Stack Development, Machine learning, MERN, Javascript and its frameworks. My portfolio demonstrates my love and passion for startups. Organizations that have a strong mission is something I love being a part of. ⚡ Ethereum , EOS, AdTech, and Defense are fields and technologies that are the most interesting to me(List is subject to grow).
 
-Technologies I use: ReactJs, NextJS, NodeJS, EOS.JS, Python, OpenCV(depracated) 
+Technologies I use: ReactJs, NextJS, NodeJS, EOS.JS, Python, OpenCV(deprecated) 
 
 Technologies I am learning: Solidity, Ethereum, and Twitter(getting used to tweeting)
 

@@ -1,6 +1,6 @@
 <img src="https://github.com/epg323/epg323/blob/main/banner.gif" alt="👋 Hi there! I'm Esaul Parra Garcia" title="👋 Hi there! I'm Esaul Parra Garcia"/>
 
-My name is Esaul Parra Garcia. I am a developer with Bachelor of Science in Statistics from University of California Los Angeles. I am a developer skilled in Full Stack Development, Machine learning, MERN, Javascript and its frameworks. My portfolio demonstrates my love and passion for startups. Organizations that have a strong mission is something I love being a part of. ⚡ Ethereum , EOS, AdTech, and Defense are fields and technologies that are the most interesting to me(List is subject to grow).
+My name is Esaul Parra Garcia. I am a developer with a Bachelor of Science in Statistics from the University of California Los Angeles. I am a developer skilled in Full Stack Development, Machine learning, MERN, Javascript, and its frameworks. My portfolio demonstrates my love and passion for startups. Organizations that have a strong mission is something I love being a part of. ⚡ Ethereum, EOS, AdTech, and Defense are fields and technologies that are the most interesting to me(List is subject to grow).
 
 Technologies I use: ReactJs, NextJS, NodeJS, EOS.JS, Python, OpenCV(deprecated) 
 

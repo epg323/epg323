@@ -6,7 +6,7 @@ Follow me on:
 [![Linkedin: esaul-parra-garcia-31a383117](https://img.shields.io/badge/-esaul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/esaul-parra-garcia-31a383117/)](https://www.linkedin.com/in/esaul-parra-garcia-31a383117/)
 [![GitHub epg323](https://img.shields.io/github/followers/epg323?label=follow&style=social)](https://github.com/epg323)
 
-
+<img align='right' src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="230">
 My name is Esaul Parra Garcia. I am a developer with a Bachelor of Science in Statistics from the University of California Los Angeles. I am a developer skilled in Full Stack Development, Machine learning, MERN, Javascript, and its frameworks. My portfolio demonstrates my love and passion for startups. Organizations that have a strong mission is something I love being a part of. ⚡ Ethereum, EOS, AdTech, and Defense are fields and technologies that are the most interesting to me(List is subject to grow).
 
 
@@ -19,7 +19,7 @@ My name is Esaul Parra Garcia. I am a developer with a Bachelor of Science in St
 ![React](https://img.shields.io/badge/REACT-339933.svg?&style=flat&logo=react&logoColor=white)&nbsp;\
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;\
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;\
 ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
